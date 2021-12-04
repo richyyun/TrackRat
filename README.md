@@ -1,6 +1,6 @@
 # Tracking
 
-Tracks the position and orientation of a rat in a video of a top-down view of a cylindrical chamber. Asks user to locate the rat on the first frame and uses that data to iteratively find the position the next frame. See Example.avi for example tracking. Used for Hartmann et al. 2016.
+Tracks the position and orientation of a rat in a video of a bottom-up view of a cylindrical chamber with a clear base. Asks user to locate the rat on the first frame and uses that data to iteratively find the position the next frame. See Example.avi for example tracking. Used for Hartmann et al. 2016.
 
 <p align="center">
   <img width="455" height="465" src="https://github.com/richyyun/Tracking/blob/main/Example.PNG">
